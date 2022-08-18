@@ -1,0 +1,24 @@
+
+@media screen and (max-width : 799px) {
+h1{
+    text-indent: 15px;
+    font-size: 28px;
+}
+.nav{
+    background-color: #6e6d6dfa;
+}
+.nav li{
+    display: grid;
+    font-size: 18px;
+    padding: 1px;
+}
+a{
+    text-decoration: none;
+    color: snow;
+    letter-spacing: 1px;
+}
+img{
+    width: 28px;
+    height: 28px;
+}
+}
